@@ -3,5 +3,6 @@ public class gitTutorial {
         System.out.println("Hello GIT!");
         System.out.println("Hello Hello!");
         System.out.println("commit");
+        System.out.println("New sout");
     }
 }
